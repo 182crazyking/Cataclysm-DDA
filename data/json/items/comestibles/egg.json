@@ -144,7 +144,7 @@
     "material": "egg",
     "volume": "250 ml",
     "proportional": { "weight": 4.4, "calories": 4.4 },
-    "vitamins": [ [ "vitA", 40 ], [ "calcium", 13 ], [ "iron", 18 ], [ "vitB", 92 ] ],
+    "vitamins": [ [ "vitA", 40 ], [ "calcium", 13 ], [ "iron", 18 ], [ "vitB", 92 ], [ "mutant_toxin", 25 ] ],
     "fun": -20
   },
   {
