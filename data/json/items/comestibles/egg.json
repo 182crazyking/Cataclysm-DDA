@@ -127,7 +127,7 @@
     "volume": "600 ml",
     "fun": -10,
     "proportional": { "weight": 12.0, "calories": 12.0 },
-    "vitamins": [ [ "vitA", 108 ], [ "calcium", 36 ], [ "iron", 48 ], [ "vitB", 252 ] ],
+    "vitamins": [ [ "vitA", 108 ], [ "calcium", 36 ], [ "iron", 48 ], [ "vitB", 252 ], [ "mutant_toxin", 25 ] ],
     "rot_spawn": "GROUP_EGG_ANT",
     "rot_spawn_chance": 60
   },
